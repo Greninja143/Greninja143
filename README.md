@@ -52,5 +52,4 @@ My journey in computer science has led me to develop a strong passion for digita
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+
