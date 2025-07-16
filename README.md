@@ -9,6 +9,7 @@ My journey in computer science has led me to develop a strong passion for digita
 ## Skills
 | **Skill**                             | **Associated Project**                                                                |
 | ------------------------------------- | ------------------------------------------------------------------------------------- |
+| Network Forensics                     | [Network Analysis
 | Memory Forensics and Malware Analysis | [Volatility Memory Analysis Lab](https://github.com/volatilityfoundation/volatility3) |
 | Disk Imaging and Analysis             | [Autopsy Forensics Lab](https://www.sleuthkit.org/autopsy/)                           |
 | Registry Forensics                    | [RegRipper Hive Analysis](https://github.com/keydet89/RegRipper3.0)                   |
