@@ -9,8 +9,8 @@ My journey in computer science has led me to develop a strong passion for digita
 ## Skills
 | **Skill**                             | **Associated Project**                                                                |
 | ------------------------------------- | ------------------------------------------------------------------------------------- |
-| Network Forensics                     | [Network Analysis](https://medium.com/@seenujaat68/xlmrat-lab-25222a2b60e7)
-| Memory Forensics and Malware Analysis | [Volatility Memory Analysis Lab](https://github.com/volatilityfoundation/volatility3) |
+| Network Forensics                     | [Network Analysis-1](https://medium.com/@seenujaat68/directory-tryhackme-85d3a3d12588)[Network Analysis-2](https://medium.com/@seenujaat68/xlmrat-lab-25222a2b60e7)
+| Memory Forensics and Malware Analysis | [Linux Memory Analysis](https://medium.com/@seenujaat68/profiles-tryhackme-98ef646eef95)[Volatility Memory Analysis Lab](https://github.com/volatilityfoundation/volatility3) |
 | Disk Imaging and Analysis             | [Autopsy Forensics Lab](https://www.sleuthkit.org/autopsy/)                           |
 | Registry Forensics                    | [RegRipper Hive Analysis](https://github.com/keydet89/RegRipper3.0)                   |
 | Timeline Analysis                     | [Plaso/Log2Timeline Project](https://github.com/log2timeline/plaso)                   |
