@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a strong passion for digita
 | Registry Forensics                    | [RegRipper Hive Analysis](https://github.com/keydet89/RegRipper3.0)                   |
 | Timeline Analysis                     | [Plaso/Log2Timeline Project](https://github.com/log2timeline/plaso)                   |
 | Email and Document Artifact Analysis  | [Magnet AXIOM Case Study](https://www.magnetforensics.com/resources/)                 |
-| Mobile Device Forensics               | [Cellebrite UFED Practice](https://www.cellebrite.com/en/ufed/)                       |
+| Mobile Device Forensics               | [ALEAPP]([https://www.cellebrite.com/en/ufed/](https://medium.com/@seenujaat68/the-crime-lab-cyberdefenders-7643b29039cd))                       |
 | File Carving and Data Recovery        | [Scalpel Recovery Project](https://github.com/sleuthkit/scalpel)                      |
 | Windows Event Log Analysis            | [Event Log Explorer Analysis](https://eventlogxp.com/)                                |
 
