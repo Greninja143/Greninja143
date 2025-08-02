@@ -7,7 +7,7 @@ I am a BCA graduate with a profound interest in technology and a strong dedicati
 My journey in computer science has led me to develop a strong passion for digital forensics. I am now eager to apply my technical skills and forensic knowledge in a law enforcement setting, with the goal of joining the Digital Forensics team within the police department to support criminal investigations through evidence analysis.
 
 ## Skills
-| **Skill**                             | **Associated Project**                                                                |
+| **Skill**                             | **Associated Write-Up**                                                                |
 | ------------------------------------- | ------------------------------------------------------------------------------------- |
 | Network Forensics                     | [Network Analysis-1](https://medium.com/@seenujaat68/directory-tryhackme-85d3a3d12588), [Network Analysis-2](https://medium.com/@seenujaat68/xlmrat-lab-25222a2b60e7)
 | Memory Forensics and Malware Analysis | [Linux Memory Analysis](https://medium.com/@seenujaat68/profiles-tryhackme-98ef646eef95), [Volatility Memory Analysis Lab](https://github.com/volatilityfoundation/volatility3) [Windows Memroy Analysis](https://medium.com/@seenujaat68/mrrobot-lab-cyberdefenders-93d3d6cdcd06)|
@@ -54,4 +54,8 @@ My journey in computer science has led me to develop a strong passion for digita
 </div>
 
 ## Projects
+| **Project Title**                            | **Platform** | **Description**                                                                                                                                                                                                                                                                                                        |
+| -------------------------------------------- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Windows Live Forensic Artifact Collector**](https://github.com/Greninja143/Projects/tree/main/Windows) | Windows      | A Python-based script that automatically collects crucial forensic artifacts (e.g., system info, registry hives, browser data, running processes, network connections) from a **live Windows system**. It includes error handling for permission-restricted paths and organizes all data into a timestamped directory. |
+| [**Linux Forensic Artifact Extractor**](https://github.com/Greninja143/Projects/tree/main/Linux)        | Linux        | A shell script designed to extract key forensic artifacts from a **Linux image or live system**, such as logs, user account data, network configs, cron jobs, bash history, and mounted devices. Suitable for disk image or live incident response cases.                                                              |
 
