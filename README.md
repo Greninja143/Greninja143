@@ -10,9 +10,10 @@ My journey in computer science has led me to develop a strong passion for digita
 | **Skill**                             | **Associated Write-Up**                                                                |
 | ------------------------------------- | ------------------------------------------------------------------------------------- |
 | Network Forensics                     | [Network Analysis-1](https://medium.com/@seenujaat68/directory-tryhackme-85d3a3d12588), [Network Analysis-2](https://medium.com/@seenujaat68/xlmrat-lab-25222a2b60e7)
-| Memory Forensics and Malware Analysis | [Linux Memory Analysis](https://medium.com/@seenujaat68/profiles-tryhackme-98ef646eef95), [Volatility Memory Analysis Lab](https://github.com/volatilityfoundation/volatility3) [Windows Memroy Analysis](https://medium.com/@seenujaat68/mrrobot-lab-cyberdefenders-93d3d6cdcd06)|
+| Memory Forensics and Malware Analysis | [Linux Memory Analysis](https://medium.com/@seenujaat68/profiles-tryhackme-98ef646eef95), [Volatility Memory Analysis Lab](https://medium.com/@seenujaat68/ulysses-lab-b432917d69c2) [Windows Memroy Analysis](https://medium.com/@seenujaat68/mrrobot-lab-cyberdefenders-93d3d6cdcd06)|
 | Android Imaging and Analysis             | [My Phone](https://medium.com/@seenujaat68/acquiring-and-analyzing-forensics-image-of-a-rooted-android-phone-using-magnet-axiom-b42e497fc044)                           |
 | Network & Cryptography Analysis       | [1](https://medium.com/@seenujaat68/redtrails-hack-the-box-8facb0b76648)             |
+| Network & Malware Analysis            | [Web Investigation lab](https://medium.com/@seenujaat68/web-investigation-lab-cyberdefenders-6ef7324550d8)
 | Mobile Device Forensics               | [ALEAPP](https://medium.com/@seenujaat68/the-crime-lab-cyberdefenders-7643b29039cd),[iOS Device](https://medium.com/@seenujaat68/jailbroken-lab-cyberdefenders-7a28e6140537)  |
 | File Carving and Data Recovery        | [Silent Breach](https://medium.com/@seenujaat68/silent-breach-lab-faf0b67d62a9)                      |
 
